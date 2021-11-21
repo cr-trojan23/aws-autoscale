@@ -1,4 +1,4 @@
-###AWS Autoscaling infrastructure with Budget Estimate
+### AWS Autoscaling infrastructure with Budget Estimate
 
 ![INFRA](https://raw.githubusercontent.com/cr-trojan23/aws-autoscale/main/Autoscale_infra.png)
 
